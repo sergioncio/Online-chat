@@ -1,0 +1,17 @@
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\bin\Debug\Servidor.exe.config
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\bin\Debug\Servidor.exe
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\bin\Debug\Servidor.pdb
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\obj\Debug\Servidor.Server.resources
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\obj\Debug\Servidor.csproj.GenerateResource.Cache
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\obj\Debug\Servidor.exe
+F:\UPCT\4º\Primer Cuatrimestre\Laboratorio de Contenidos Digitales\Prácticas\Chat\Servidor\Servidor\obj\Debug\Servidor.pdb
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\bin\Debug\Servidor.exe.config
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\bin\Debug\Servidor.exe
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\bin\Debug\Servidor.pdb
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\obj\Debug\Servidor.Server.resources
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\obj\Debug\Servidor.exe
+F:\Uni(cornio)\Cuarto año\Laboratorio de Contenidos Digitales\Chat\Servidor\Servidor\obj\Debug\Servidor.pdb
